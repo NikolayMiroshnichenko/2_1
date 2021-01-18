@@ -312,13 +312,6 @@ a {
   margin-bottom: 30px;
   font-weight: 600;
 }
-.wrapper-second-text span {
-  color: #ff0f47;
-}
-/* .wrapper-box-list {
-  width: 50%;
-  margin: 0 auto;
-} */
 .wrapper-list-title {
   color: #ffffff;
   font-size: 20px;
@@ -329,7 +322,7 @@ a {
   width: 100%;
   padding-left: 40px;
   list-style-type: none;
-  margin-bottom: 60px;
+  margin-bottom: 40px;
 }
 .wrapper-list li {
   position: relative;
